@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858282560041",
+    "project_id": "chat-room-f72a9",
+    "storage_bucket": "chat-room-f72a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858282560041:android:628360aea85fc838eeaa38",
+        "android_client_info": {
+          "package_name": "com.danylom73.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdnfqPfVbWl5qU3N5fvzcnDvuY67xpSao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
